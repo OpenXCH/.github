@@ -14,6 +14,15 @@
 
 ### OpenXCH is more than just a marketplace – it's a community. We're passionate about fostering a collaborative environment where developers can connect, learn, and grow together.
 
+## Open-source... Marketplace? 🤔
+Yes, you read that right! While the term "marketplace" might bring to mind commercial platforms, we're committed to keeping the "open" in OpenXCH Here's what that means:
+* **Free and Accessible**: All of our community discussions, and most of the projects hosted within OpenXCH are open-source, adhering to established open-source licenses. This ensures that the source code remains freely available for anyone to use, modify, and distribute.
+* **Community-Driven:** OpenXCH is built by the community, for the community. We encourage contributions, collaboration, and feedback from developers of all levels.
+* **Transparency:** We believe in open governance and transparent decision-making processes. Our goal is to create a platform that is truly representative of our community.
+
+*Please note that developers CAN charge a fee for their own projects like software or models, but never will we charge you for OpenXCH projects, open-source projects or access to our community!*
+
+
 ## Join the OpenXCH Community Today!
 
 * **Buyers:**  Discover the tools and resources you need to succeed.
